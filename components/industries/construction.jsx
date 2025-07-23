@@ -1,7 +1,7 @@
 function Construction(){
     return(
         <>
-        <div>Construction</div>
+            <div>Construction</div>
         </>
     )
 }

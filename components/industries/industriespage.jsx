@@ -4,8 +4,8 @@ import { Link } from "react-router-dom"
 function IndustriesPage(){
     return(
         <>
-        <div>Industries</div>
-            <nav>
+        
+            <nav id="industries">
                 <Link to="/Construction">Construction</Link>
                 <Link to="/Agriculture">Agriculture</Link>
                 <Link to="/Oil+Gas">Oil and Gas</Link>

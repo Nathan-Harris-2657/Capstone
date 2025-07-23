@@ -1,0 +1,23 @@
+#title{
+   display: flex;
+   justify-content: center;
+}
+
+#titleBlurb{
+    display: flex;
+    justify-content: center;
+}
+
+#headerLinks{
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+}
+#pageContainer{
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+}
+.footer{
+    text-align: center;
+}

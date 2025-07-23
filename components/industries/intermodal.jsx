@@ -1,6 +1,7 @@
 function Intermodal(){
     return(
         <>
+            <div>Intermodal</div>
         </>
     )
 }

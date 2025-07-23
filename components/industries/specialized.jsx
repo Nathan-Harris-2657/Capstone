@@ -1,6 +1,7 @@
 function Specialized(){
     return(
         <>
+            <div>Specialized</div>
         </>
     )
 }

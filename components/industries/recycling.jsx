@@ -1,6 +1,7 @@
 function Recycling(){
     return(
         <>
+            <div>Recycling</div>
         </>
     )
 }

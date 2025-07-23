@@ -1,6 +1,7 @@
 function Retail(){
     return(
         <>
+            <div>Retail</div>
         </>
     )
 }

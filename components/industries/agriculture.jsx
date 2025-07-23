@@ -1,6 +1,7 @@
 function Agriculture(){
     return(
         <>
+            <div>Agriculture</div>
         </>
     )
 }
